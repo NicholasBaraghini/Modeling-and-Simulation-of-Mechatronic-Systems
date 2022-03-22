@@ -34,7 +34,11 @@ A_end_HT   = 98;    % Austenite Ending High-Temperature [C]
 M_start_HT = 72;    % Martensite Starting High-Temperature [C]
 M_end_HT   = 62;    % Martensite Ending High-Temperature [C]
 
+%% Mechanical Model Parameters
 
+Spring_Stiff = 12;      % Fixed Spring Stiffness [N/m]
+Slider_Friction = 0.11; % Dinamic Friction of the Slider [N/(m/s)]
+Slider_Mass = 0.02;     % Mass of the Slider []
 
 
 
