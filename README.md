@@ -4,4 +4,4 @@ Develop a complete mathematical model of a shape memory alloy (SMA) wire actuate
 You can read the task description [here](https://github.com/NicholasBaraghini/Modeling-and-Simulation-of-Mechatronic-Systems/blob/main/SMA_Model_2021.pdf)
 
 ### Report
-You can read and download our report [here](https://github.com/NicholasBaraghini/Modeling-and-Simulation-of-Mechatronic-Systems/blob/main/MSMS_report.pdf)
+You can read and download the final report [here](https://github.com/NicholasBaraghini/Modeling-and-Simulation-of-Mechatronic-Systems/blob/main/MSMS_report.pdf)
